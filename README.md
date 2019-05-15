@@ -1,4 +1,4 @@
-# COMP4901J Project
+# COMP4901J Project - Mahjong Tile Image Classification
 - Ng Chi Him chngax@connect.ust.hk 20420921
 - Wong Hiu Nam hnwongab@connect.ust.hk 20425804
 
@@ -8,7 +8,7 @@ conda install anaconda tensorflow-gpu
 ```
 
 ## Dataset
-The dataset of this project is hosted in another [repo](https://www.github.com/camerash/mahjong-dataset)
+The dataset of this project is hosted in [another repo](https://www.github.com/camerash/mahjong-dataset)
 
 Clone the dataset repo and prepare the dataset for training as follows:
 
